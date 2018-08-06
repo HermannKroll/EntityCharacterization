@@ -19,7 +19,8 @@ We can't deliver all necessary dependencies, because some are missing inside mav
 
 
 
-# Virtuoso JDBC (you don't need to setup a database containing the data)
+# Virtuoso JDBC 
+(you don't need to setup a database containing the data)
 1. Extract the Virtuoso JDBC driver like explained in
 http://docs.openlinksw.com/virtuoso/virtuosodriverpackaging/
 2. Copy the jar inside lib/jdbc/virtjdbc/4.2/virtjdbc-4.2.jar 
