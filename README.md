@@ -37,3 +37,8 @@ src/main/java/de/bs/tu/ifis/Config.java class.
 You need to setup the following:
 1. location of the ESBM benchmark data 
 2. location to save the results
+
+
+
+## Results
+Bafrec's generated output for the ESBM benchmark can be found inside summ_bafrec.
